@@ -1,0 +1,33 @@
+EzzSteel Sales Data Analysis - Insights Summary
+(Data source: Sales_Transactions sheet, cleaned; Profit is estimated using monthly Gross Margin % from Monthly_Financial sheet)
+
+KEY FIGURES
+- Total Sales: 50,638,426,437 EGP
+- Total Profit (estimated): 7,219,188,135 EGP
+- Top Category: Long Steel (61.2% of total sales)
+- Top Product: B500C steel grade (6.49B EGP)
+- Top Region: Qalyubia (7.8% of total sales)
+- Best Month: September 2023 (2.22B EGP)
+- Lowest Month: August 2020 (498.5M EGP)
+
+INSIGHTS
+
+1. Category Concentration
+Long Steel dominates the product mix, generating 61.3% of total sales 
+compared to Flat Steel (HRC)'s 38.7% .
+
+2. Top Product
+SD390 is the best-selling individual product grade , closely followed
+by B500C. The top 5 grades are tightly clustered, showing no single
+grade overwhelmingly dominates the market.
+
+3. Regional Distribution
+Sales are geographically well-distributed: the top region (Qalyubia) accounts for
+only 7.8% of total sales, with Cairo, Sharqia, and Asyut close behind - indicating
+no single region drives the business disproportionately.
+
+4. Seasonality & Growth
+Revenues are volatile but trend upward from 2020 to 2023; despite seasonal dips, 
+the trajectory is positive, peaking in 2023.
+
+
