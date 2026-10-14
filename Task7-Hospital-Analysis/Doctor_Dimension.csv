@@ -1,0 +1,8 @@
+Doctor,Department,Total_Patients,Avg_Satisfaction,Recovery_Rate,Avg_LOS_Days
+Dr. Adeyemi,Orthopedics,83,3.05,0.29,7.98
+Dr. Ahmed,Neurology,82,3.04,0.23,7.59
+Dr. Bello,Cardiology,67,3.06,0.18,7.46
+Dr. Johnson,Emergency,66,2.74,0.2,8.18
+Dr. Musa,Pediatrics,74,3.01,0.23,8.24
+Dr. Obi,Orthopedics,66,2.86,0.3,8.23
+Dr. Okafor,Cardiology,62,3.11,0.24,8.6
